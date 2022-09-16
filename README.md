@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Welcome&desc=Yongjae's%20github%&fontSize=80&fontAlign=70&fontAlignY=40&descAlign=70&descAlignY=58&fontColor=auto&rotate=19)
 
+<a href="https://www.instagram.com/yongjae_0804/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 <!--
 **Yongjae-0804/Yongjae-0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
